@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoanChege
 - 👀 I’m interested in learning new languages
-- 🌱 I’m currently learning school projects
-- 💞️ I’m looking to collaborate on web developments and maybe once i advance later mobile apps
+- 🌱 I’m currently working on my  school project
+- 💞️ I’m looking to collaborate on web developments and mobile apps
 - 📫 How to reach me via email jncheg@gmail.com
 
 <!---
