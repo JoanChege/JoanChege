@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @JoanChege
-- 👀 I’m interested in learning new languages
-- 🌱 I’m currently working on my  school project
-- 💞️ I’m looking to collaborate on web developments and mobile apps
-- 📫 How to reach me via email jncheg@gmail.com
+** Hi, I'm JoanChege!**
+
+** Recent Informatics & Computer Science graduate.** Eager to learn new languages and expand my skillset.
+
+️ Currently exploring: Full-stack development (my main focus!), DevOps, Game development, Python coding.
+
+** Reach me:** jncheg@gmail.com
 
 <!---
 JoanChege/JoanChege is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
