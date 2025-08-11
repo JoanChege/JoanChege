@@ -1,4 +1,4 @@
-** Hi, I'm JoanChege!**
+** Hi, I'm JoanChege **
 
 ** Recent Informatics & Computer Science graduate.** Eager to learn new languages and expand my skillset.
 
